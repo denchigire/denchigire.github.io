@@ -1,2 +1,2 @@
 # denchigire.github.io
-denchigire.kami.xyz
+http://denchigire.github.io/
