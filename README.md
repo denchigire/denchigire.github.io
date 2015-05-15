@@ -1,2 +1,2 @@
 # denchigire.github.io
-ホームページ
+denchigire.kami.xyz
